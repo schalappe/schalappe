@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [schalappe.page](schalappe.page)
 
-- 📄 Know about my experiences [https://www.schalappe.page/static/file/cv.pdf](CV)
+- 📄 Know about my experiences [CV](https://www.schalappe.page/static/file/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
