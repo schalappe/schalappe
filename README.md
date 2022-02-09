@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakim</h1>
 <h3 align="center">Machine Learning Engineer | Digital & Life Geek</h3>
 
-<p align="left"> <a href="https://twitter.com/hakim_kone" target="blank"><img src="https://img.shields.io/twitter/follow/hakim_kone?logo=twitter&style=for-the-badge" alt="hakim_kone" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HakimKone" target="blank"><img src="https://img.shields.io/twitter/follow/hakim_kone?logo=twitter&style=for-the-badge" alt="hakim_kone" /></a> </p>
 
 - 🌱 I’m currently learning **MLOps**
 
