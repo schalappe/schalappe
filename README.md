@@ -13,6 +13,7 @@
 - Renforcement Learning: Mini World
 - Cell segmentation
 - Object Recognition: Kenyan Sign
+- Recommender System: Korean Drama recommendation
 
 ---
 
