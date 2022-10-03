@@ -10,7 +10,8 @@
 ## 🔭 I'm currently working on:
 
 - My old projects
-- Renforcement Learning: Mini World
+- Reinforcement Learning: 2048
+- Reinforcement Learning: Mini World
 - Cell segmentation
 - Object Recognition: Kenyan Sign
 - Recommender System: Korean Drama recommendation
