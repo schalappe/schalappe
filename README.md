@@ -65,7 +65,6 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://twitter.com/HakimKone" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="HakimKone" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdallah-hakim-kone" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdallah-hakim-kone" height="30" width="40" /></a>
 <a href="https://medium.com/@schalappe" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@schalappe" height="30" width="40" /></a>
 
