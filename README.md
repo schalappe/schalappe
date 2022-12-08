@@ -10,7 +10,6 @@
 ## 🔭 I'm currently working on:
 
 - My old projects
-- Reinforcement Learning: 2048
 - Reinforcement Learning: Mini World
 - Cell segmentation
 - Object Recognition: Kenyan Sign
