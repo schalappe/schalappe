@@ -3,7 +3,7 @@
 
 ---
 
--  👨‍💻 Know about my experiences at [schalappe.page](schalappe.page)
+-  👨‍💻 Know about my experiences at [schalappe.page](https://schalappe.page)
 
 ---
 
